@@ -48,7 +48,7 @@ Session.vim
 /content/tmp/*
 /content/data/*
 /content/apps/**/*
-/content/themes/**/*
+## /content/themes/**/*
 /content/images/**/*
 !/content/themes/casper/**
 !/README.md
@@ -60,10 +60,10 @@ CHANGELOG.md
 /core/test/functional/*.png
 /core/test/coverage
 
-/config.js
+## /config.js
 
-# Built asset files
-/core/built
+## # Built asset files
+## /core/built
 /core/server/views/default.hbs
 /core/shared/ghost-url.min.js
 
